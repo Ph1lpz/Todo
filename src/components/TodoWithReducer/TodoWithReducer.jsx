@@ -57,7 +57,7 @@ const [text, setText] = useState("");
 
   return (
     <>
-      <ul className="bg-purple-600 w-[500px] min-h-[300px] flex flex-col p-10 mx-auto mt-[15vh] rounded-md shadow-lg border ">
+      <ul className="bg-purple-600 w-[500px] min-h-[300px] flex flex-col p-10 mx-auto mt-[15vh] rounded-md shadow-lg">
         <h1 className="text-center text-3xl font-semibold mb-4 py-1 bg-pink-500 border rounded-md text-gray-200">Tasks</h1>
       <div className="flex justify-around mb-4">
         <input
